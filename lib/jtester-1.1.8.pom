@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>mockit</groupId>
 			<artifactId>jmockit</artifactId>
-			<version>0.999.10</version>
+			<version>0.999.4</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-dbcp</groupId>
@@ -78,7 +78,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.6</version>
+			<version>8.0.11</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
